@@ -1,3 +1,5 @@
+#### FILES TO LARGE #### COMPRESSING FILES IN PROGRESS
+
 # YESBIKE-Android-App
 EEC136 - Senior Design Project 
 
